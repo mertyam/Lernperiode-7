@@ -17,8 +17,14 @@ Modul 295: 6
 
 ## 25.10.2024
 
-- [ ] Unit Testing Repetieren mit Folien und Unterlagen
-- [ ] Unit Testing auf einen Code versuchen Umzusetzen
+- [x] Unit Testing Repetieren mit Folien und Unterlagen
+- [/] Unit Testing auf einen Code versuchen Umzusetzen
+
+
+## 01.11.2024
+- [ ] Unit Testing ausprobieren
+- [ ] Unit Testing Verbessern
+- [ ] Kapsellung repetieren mit Unterlagen
 
 ## Reflexion
 
