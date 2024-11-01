@@ -22,8 +22,13 @@ Modul 295: 6
 
 
 ## 01.11.2024
-- [ ] An der Aufgabe Pferderennen arbeiten
-- [ ] Kapsellung repetieren mit Unterlagen
+- [x] An der Aufgabe Pferderennen arbeiten
+- [x] Kapsellung repetieren mit Unterlagen
+
+
+## 08.11.2024
+- [ ] Mit JavaSript Coden und Videos dazu anschauen
+- [ ] Rollen Aufgabe mit Clouds
 
 ## Reflexion
 
