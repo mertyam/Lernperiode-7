@@ -22,8 +22,7 @@ Modul 295: 6
 
 
 ## 01.11.2024
-- [ ] Unit Testing ausprobieren
-- [ ] Unit Testing Verbessern
+- [ ] An der Aufgabe Pferderennen arbeiten
 - [ ] Kapsellung repetieren mit Unterlagen
 
 ## Reflexion
