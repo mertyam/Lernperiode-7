@@ -27,8 +27,12 @@ Modul 295: 6
 
 
 ## 08.11.2024
-- [ ] Mit JavaSript Coden und Videos dazu anschauen
-- [ ] Rollen Aufgabe mit Clouds
+- [x] Mit JavaSript Coden und Videos dazu anschauen
+- [x] Für LB320 vorbereiten
+
+## 15.11.2024
+- [ ] Vokabeltrainer mit JavaScript, HTML und CSS versuchen
+- [ ] Mit Git herum experementieren.
 
 ## Reflexion
 
