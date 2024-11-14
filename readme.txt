@@ -28,7 +28,7 @@ Modul 295: 6
 
 ## 08.11.2024
 - [x] Mit JavaSript Coden und Videos dazu anschauen
-- [x] Für LB320 vorbereiten
+- [x] Crud Operationen mit Json (Auftrag für Modul 294)
 
 ## 15.11.2024
 - [ ] Vokabeltrainer mit JavaScript, HTML und CSS versuchen
