@@ -31,7 +31,7 @@ Modul 295: 6
 - [x] Crud Operationen mit Json (Auftrag für Modul 294)
 
 ## 15.11.2024
-- [ ] Vokabeltrainer mit JavaScript, HTML und CSS versuchen
+- [x] Vokabeltrainer mit JavaScript, HTML und CSS versuchen
 - [ ] Mit Git herum experementieren.
 
 ## Reflexion
