@@ -34,6 +34,10 @@ Modul 295: 6
 - [x] Vokabeltrainer mit JavaScript, HTML und CSS versuchen
 - [ ] Mit Git herum experementieren.
 
+## 22.11.2024
+-[ ] Gefundene Idee für Vokabeln versuchen zu umsetzen.
+-[ ] 
+
 ## Reflexion
 
 
