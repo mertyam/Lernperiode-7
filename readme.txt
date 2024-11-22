@@ -35,7 +35,11 @@ Modul 295: 6
 - [ ] Mit Git herum experementieren.
 
 ## 22.11.2024
--[ ] Gefundene Idee für Vokabeln versuchen zu umsetzen.
+-[/] Gefundene Idee für Vokabeln versuchen zu umsetzen.
+-[ ] 
+
+## 29.11.2024
+-[ ] Bessere Idee für Vokabeltrainer suchen (lief nicht so gut)
 -[ ] 
 
 ## Reflexion
