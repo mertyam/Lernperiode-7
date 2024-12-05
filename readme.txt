@@ -39,8 +39,11 @@ Modul 295: 6
 -[ ] 
 
 ## 29.11.2024
--[ ] Bessere Idee für Vokabeltrainer suchen (lief nicht so gut)
--[ ] 
+-[x] Bessere Idee für Vokabeltrainer suchen (lief nicht so gut)
+-[x] Umsetzen
+
+## 06.12.2024
+-[ ] Idee umsetzen (txt datei)
 
 ## Reflexion
 
