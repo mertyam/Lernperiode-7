@@ -43,7 +43,10 @@ Modul 295: 6
 -[x] Umsetzen
 
 ## 06.12.2024
--[ ] Idee umsetzen (txt datei)
+-[x] Idee umsetzen (txt datei)
+
+## 06.12.2024
+-[ ] Vokabeltrainer mit CSS verschönern und Responsive versuchen zu machen.
 
 ## Reflexion
 
