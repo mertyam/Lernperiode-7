@@ -46,7 +46,11 @@ Modul 295: 6
 -[x] Idee umsetzen (txt datei)
 
 ## 06.12.2024
--[ ] Vokabeltrainer mit CSS verschönern und Responsive versuchen zu machen.
+-[x] Vokabeltrainer mit CSS verschönern und Responsive versuchen zu machen.
+
+## 12.12.2024
+- [ ] Responsiv noch beenden
+- [ ] Extra Funktionen hinzufügen (Tipps bekommen beim 2th mal Falsch machen z.B.)
 
 ## Reflexion
 
